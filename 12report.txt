@@ -1,0 +1,17 @@
+Wed Jun 26 13:49:45 PDT 2024
+user: 25zhe
+home: /home/25zhe
+shell: /bin/bash
+pwd: /home/25zhe/Code/mcb185_homework
+path: /usr/local/bin:/usr/bin:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files/Cloudflare/Cloudflare WARP:/cygdrive/c/Users/25zhe/AppData/Local/Microsoft/WindowsApps
+CYGWIN_NT-10.0-22621 DESKTOP-9O9Q0AG 3.5.3-1.x86_64 2024-04-03 17:25 UTC x86_64 Cygwin
+Python 3.9.16
+/home/25zhe/Code
+/home/25zhe/Code/MCB185
+/home/25zhe/Code/MCB185/.git
+/home/25zhe/Code/MCB185/course
+/home/25zhe/Code/MCB185/data
+/home/25zhe/Code/MCB185/ref
+/home/25zhe/Code/MCB185/src
+/home/25zhe/Code/mcb185_homework
+/home/25zhe/Code/mcb185_homework/.git
