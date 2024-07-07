@@ -1,0 +1,1 @@
+gunzip -c dictionary.gz | grep "r" | grep -E "{4,}" | grep -v "[^zoniac]"
