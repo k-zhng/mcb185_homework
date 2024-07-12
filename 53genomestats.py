@@ -35,6 +35,6 @@ def stats():
     if (count % 2 == 0):
         median = (lengths[int(count/2)] + lengths[int(count/2) - 1]) / 2
     else:
-        median = lengths[count/2]
+        median = lengths[int(count/2)]
     return (count, min_length, max_length, mean, std, median)
 print(stats())
